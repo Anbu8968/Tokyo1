@@ -3,3 +3,4 @@ Create a new Repository using create repository
 Create a name for the new repository
 Create folder and files and add the files into folders using git add .
 Create a new branch
+Commit happens in the created branch called feature/login
