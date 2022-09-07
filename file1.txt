@@ -1,2 +1,3 @@
 GitHub is a Cloud-based service which helps developers to store and manage their code.
 Create a new Repository using create repository
+Create a name for the new repository
