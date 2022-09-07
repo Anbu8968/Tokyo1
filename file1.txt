@@ -1,1 +1,1 @@
-hello
+GitHub is a Cloud-based service which helps developers to store and manage their code.
