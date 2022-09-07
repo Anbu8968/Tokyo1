@@ -3,3 +3,4 @@ Create a new Repository using create repository
 Create a name for the repository
 Provide the access to the users by adding collaborators
 Create a new Branch called feature/login
+Commit happens in the created branch
