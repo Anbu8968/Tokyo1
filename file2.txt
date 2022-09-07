@@ -5,3 +5,4 @@ Provide the access to the users by adding collaborators
 Create a new Branch called feature/login
 Commit happens in the created branch
 After deleting the branch in Amy's folder and create another branch 
+Commit done in the branch created in Amy's folder
