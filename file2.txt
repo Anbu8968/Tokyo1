@@ -7,3 +7,4 @@ Commit happens in the created branch
 After deleting the branch in Amy's folder and create another branch 
 Commit done in the branch created in Amy's folder
 Switch to the John's folder and Amy's folder
+Fetch the commit from the remote
