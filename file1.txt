@@ -5,3 +5,4 @@ Create folder and files and add the files into folders using git add .
 Create a new branch
 Commit happens in the created branch called feature/login
 Delete the branch Amy's folder and create another branch in the Amy's folder
+Commit happens and newly created branch will be deleted
